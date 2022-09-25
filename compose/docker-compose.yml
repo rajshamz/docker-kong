@@ -1,4 +1,4 @@
-version: '2.2'
+version: '3.3'
 
 x-kong-config: &kong-env
   KONG_DATABASE: ${KONG_DATABASE:-off}
